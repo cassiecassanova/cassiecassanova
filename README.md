@@ -1,6 +1,6 @@
 ## Hi there 👋🏽 I'm Cassie Cassanova!
 
-# I am current a Mobile & Web Software Engineer within the Insurance & Finance Industry
+# I am currently a Mobile & Web Software Engineer within the Insurance & Finance Industry
 🎓 Bachelor's in Mathematics (Central CT State University)</br>
 🌱 I am actively progressing in my knowledge of Python</br>
 👩🏽‍💻 I am currently pursuing new opportunities in Software and Data Engineering</br>
